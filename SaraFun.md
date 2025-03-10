@@ -1,5 +1,5 @@
 # Домашнее задание 1
 
-# Sarafun
+# SaraFun
 
 Ссылка на проект: [spark-it.site](https://spark-it.site)
